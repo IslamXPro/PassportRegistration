@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Valley">
+        <item>Viloyat</item>
+        <item>@string/v1</item>
+        <item>@string/v2</item>
+        <item>@string/v3</item>
+        <item>@string/v4</item>
+        <item>@string/v5</item>
+        <item>@string/v6</item>
+        <item>@string/v7</item>
+        <item>@string/v8</item>
+        <item>@string/v9</item>
+        <item>@string/v10</item>
+        <item>@string/v11</item>
+        <item>@string/v12</item>
+        <item>@string/v13</item>
+    </string-array>
+</resources>

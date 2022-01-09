@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PassRegistr</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="passport_data_generation">Passport Data Generation</string>
+    <string name="passport_data">Passport Data</string>
+    <string name="generation">Generation</string>
+    <string name="barcha_fuqoralar">Barcha fuqoralar</string>
+    <string name="fuqoraga_passport_berish">Fuqoraga passport berish</string>
+    <string name="fuqaroning_ma_lumotlarini_qo_shish">Fuqaroning ma\'lumotlarini qo\'shish</string>
+    <string name="fuqarolar_royhati">Fuqarolar royhati</string>
+    <string name="v1">Andijon</string>
+    <string name="v2">Buxoro</string>
+    <string name="v3">Jizzax</string>
+    <string name="v4">Qoraqalpog\'iston</string>
+    <string name="v5">Qashqadaryo</string>
+    <string name="v6">Navoiy</string>
+    <string name="v7">Namangan</string>
+    <string name="v8">Samarqand</string>
+    <string name="v9">Surxandaryo</string>
+    <string name="v10">Sirdaryo</string>
+    <string name="v11">Toshkent</string>
+    <string name="v12">Farg\'ona</string>
+    <string name="v13">Xorazm</string>
+</resources>
